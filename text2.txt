@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Congresso Oftalmologia</title>
+
+    <!-- Bootstrap -->
+    <link href="estilos/all.css" rel="stylesheet">
+    <link href="estilos/css/styles.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+    <body>
+      <div class="wrapper">
+          <div class="main-content">
+              <nav class="navbar navbar-default menu-content">
+                  <div class="container-fluid">
+                      <!-- Brand and toggle get grouped for better mobile display -->
+                      <div class="navbar-header">
+                          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                              <span class="sr-only">Toggle navigation</span>
+                              <span class="icon-bar"></span>
+                              <span class="icon-bar"></span>
+                              <span class="icon-bar"></span>
+                          </button>
+                      </div>
+                      <!-- Collect the nav links, forms, and other content for toggling -->
+                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                          <ul class="nav navbar-nav menu-list">
+                              <li class="menu-list-item"><a href="/evento.html">O Evento</a></li>
+                              <li class="menu-list-item"><a href="/inscricoes.html">Inscrições</a></li>
+                              <li class="menu-list-item"><a href="/exposicao-comercial.html">Exposição Comercial</a></li>
+                              <li class="menu-list-item"><a href="/programacao-cientifica.html">Programação Científica</a></li>
+                              <li class="menu-list-item"><a href="/joao-pessoa.html">João Pessoa</a></li>
+                              <li class="menu-list-item"><a href="/hospedagem.html">Hospedagem</a></li>
+                              <li class="menu-list-item"><a href="/informacoes-gerais.html">Informações Gerais</a></li>
+                          </ul>
+                      </div><!-- /.navbar-collapse -->
+                  </div><!-- /.container-fluid -->
+              </nav>
+              <header class="header-content percent100">
+                  <div class="header-side header-side-left col-lg-7 col-md-7 col-sm-7">
+                      <div class="logo-content col-lg-4 col-md-4 col-sm-4">
+                          <div class="row">
+                              <a href="/"><img src="images/logo.png" alt=""></a>
+                          </div>
+                      </div>
+                      <div class="title-content col-lg-7 col-md-7 col-sm-7">
+                          <div class="title-content-body">
+                              <h2 class="title-content-title">
+                                  XIII Congresso<br>
+                                  Norte-Nordeste de<br>
+                                  <span class="title-content-title-main">Oftalmologia</span>
+                              </h2>
+                              <h2 class="title-content-address">João Pessoa /PB - 16 a 18 de março de 2017</h2>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="header-side header-side-right col-lg-5 col-md-5 col-sm-5">
+                      <div class="percent100">
+                          <button class="congress-bt pull-right">Área do Congressista</button>
+                      </div>
+                      <div class="newsletter-form-content">
+                          <form action="#">
+                              <div class="newsletter-form-content-body">
+                                  <h2 class="main-title">Newsletters</h2>
+                                  <div class="form-group">
+                                      <label for="" class="field-label">Nome</label>
+                                      <input class="form-control" type="text">
+                                  </div>
+                                  <div class="form-group">
+                                      <label for="" class="field-label">E-mail</label>
+                                      <input class="form-control pull-left" type="text">
+                                      <input type="submit" class="submit-bt">
+                                  </div>
+                              </div>
+                          </form>
+                      </div>
+                  </div>
+              </header>
+              <section class="main-content-body percent100">
+                  <section class="interna-content percent100 pagina-interna">
+                      <div class="interna-content-body col-lg-12">
+                          <h2 class="interna-content-body-title">Evento</h2>
+                          <article class="interna-content-body-article col-lg-12 carta-content">
+                              <p>
+                                  A sociedade Norte-Nordeste de Oftalmologia estará, no período de 16 a 18
+
+                                  de março de 2017, realizando a edição XXIII do seu congresso, que será realizado
+
+                                  no hotel Tambaú, na cidade de João Pessoa. Será com certeza um excelente
+
+                                  oportunidade para o enriquecimento técnico-científico, onde também
+
+                                  poderemos nos confraternizar em um ambiente bastante agradável e na
+
+                                  companhia dos nossos colegas e familiares.
+
+                                  Vamos juntos enriquecer ainda mais a oftalmologia brasileira e, em
+
+                                  especial, a da nossa região através de mais este evento da nossa sociedade.
+
+                                  Sintam-se todos convidados a desfrutar um pouco da cidade onde o sol
+
+                                  nasce primeiro. Grande abraço e até lá.
+                              </p>
+
+                              <p class="text-center">
+                                  Daniel Montenegro <br>
+                                  Presidente <br>
+                                  XXIII Congresso Norte-Nordeste de Oftalmologia
+                              </p>
+                          </article>
+                          <article class="interna-content-body-article col-lg-6">
+                              <div class="list">
+                                  <h3 class="list-title">Comissão Jovem</h3>
+                                  <h4 class="list-subtitle"></h4>
+                                  <ul>
+                                      <li>Carlos Alexandre Filho (RN)</li>
+                                      <li>Gustavo Ribeiro Coutinho Dália (PB)</li>
+                                      <li>Marcelo Faria (RN)</li>
+                                      <li>Marília Bezerra Dias (PB)</li>
+                                      <li>Mário Augusto Chaves (PB)</li>
+                                      <li>Rodrigo Santos (AL)</li>
+                                  </ul>
+                              </div>
+                              <div class="list">
+                                  <h3 class="list-title">Comissão de avaliação de trabalhos científicos</h3>
+                                  <h4 class="list-subtitle"><span>Coordenadores:</span> <br>
+                                      Bernardo Cavalcanti (PE) <br>
+                                      João Marcelo Lyra (AL)
+                                  </h4>
+                                  <ul>
+                                      <li>Daniel Lucena (CE)</li>
+                                      <li>Dárcio Costa (CE)</li>
+                                      <li>Eduardo Marback (BA)</li>
+                                      <li>Haroldo Lucena (PB)</li>
+                                  </ul>
+                              </div>
+                              <div class="list">
+                                  <h3 class="list-title">Comissão Científica</h3>
+                                  <h4 class="list-subtitle"><span>Presidente:</span> <br>
+                                      David Lucena (CE)
+                                  </h4>
+                                  <h4 class="list-subtitle">
+                                      <span>Coordenadores:</span><br>
+                                      Abrahão Lucena (CE) <br>
+                                      Isaac Ramos (AL)<br>
+                                      Newton Andrade Júnior (CE)
+                                  </h4>
+                                  <ul>
+                                      <li>Adriana Leite Xavier Bertrand (MA)</li>
+                                      <li>Aganeide Palitot (PB)</li>
+                                      <li>Alan Barbosa (AL)</li>
+                                      <li>Alexandre Ventura (PE)</li>
+                                      <li>Allan Luz (SE)</li>
+                                      <li>André Uchoa (PI)</li>
+                                      <li>Andréia Urbano (BA)</li>
+                                      <li>Anne Leite Magalhães Sampaio (PI)</li>
+                                      <li>Bernardo Cavalcanti (PE)</li>
+                                      <li>Breno Barth (RN)</li>
+                                      <li>Bruna Ventura (PE)</li></li>
+                                      <li>Carla Cristina (PB)</li>
+                                      <li>Carlos Alexandre de Amorim Garcia (RN)</li>
+                                      <li>Carlos Lima (PA)</li>
+                                      <li>Daniel Amorim (PI)</li>
+                                      <li>Diego Gadelha (PB)</li>
+                                      <li>Edmundo Almeida (PA)</li>
+                                      <li>Eduardo Marback (BA)</li>
+                                      <li>Eduardo Veloso (AC)</li>
+                                      <li>Fábio Martins Soares (PI)</li>
+                                      <li>Fábio Vaz (BA)</li>
+                                      <li>Fernando Cunha (PE)</li>
+                                      <li>Francisco Lobato (PE)</li>
+                                      <li>Haroldo Lucena (PB)</li>
+                                      <li>Isabela Queiroga (PB)</li>
+                                      <li>Jefferson Ribeiro (AM)</li>
+                                      <li>João Marcelo Lyra (AL)</li>
+                                      <li>Jorge Rocha (BA)</li>
+                                      <li>Leila Gouveia (AM)</li>
+                                      <li>Lincoln de Miranda Filho (PB)</li>
+                                      <li>Marcelo Freitas (BA)</li>
+                                      <li>Marco Antônio Rey de Faria (RN)</li>
+                                      <li>Marcos Cohen (AM)</li>
+                                      <li>Mário Jorge Santos (AL)</li>
+                                      <li>Mário Ursulino (SE)</li>
+                                      <li>Max Rollemberg (SE)</li>
+                                      <li>Miguel Amaro (PA)</li>
+                                      <li>Raissa Bruna Moreira Lima (MA)</li>
+                                      <li>Roberto Galvão Filho (PE)</li>
+                                      <li>Rodrigo Lira (PE)</li>
+                                      <li>Romero Henrique Carvalho Bertrand (MA)</li>
+                                      <li>Ruy Cunha Filho (BA)</li>
+                                      <li>Sabrina Cohen (AM)</li>
+                                      <li>Stephan Noleto (MA)</li>
+                                      <li>Tiago Arantes (PE)</li>
+                                      <li>Uchoandro Bezerra da Costa Uchoa (RN)</li>
+                                      <li>Wener Cella (MA)</li>
+                                  </ul>
+                              </div>
+                          </article>
+                          <article class="interna-content-body-article col-lg-6">
+                              <table class="informacoes-gerais-table table table-bordered">
+                                  <tbody>
+                                    <tr>
+                                        <td>Presidente</td>
+                                        <td>Daniel Alves Montenegro (PB)</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>Vice-presidente</td>
+                                        <td>Rodrigo Almeida Vieira Santos (PB)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1º Secretário</td>
+                                        <td>Fernando de Melo Gadelha (PB)  </td>
+                                    </tr>
+                                    <tr>
+                                        <td>2º Secretário</td>
+                                        <td>Alexandre Ventura (PE)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1º Tesoureiro</td>
+                                        <td>Luiz Antônio Trigueiro da Nóbrega (PB)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2º Tesoureiro</td>
+                                        <td>Vasco Bravo (PE)</td>
+                                    </tr>
+                                  </tbody>
+                              </table>
+                          </article>
+                      </div>
+                  </section>
+              </section>
+          </div>
+          <div class="push"></div>
+      </div>
+      <footer class="footer">
+          <div class="footer-list-content col-lg-10">
+              <div class="row">
+                  <div class="footer-item pull-left">
+                      <h2 class="footer-item-title">Patrocinadores</h2>
+                      <ul class="footer-item-list">
+                          <li class="footer-item-list-box"><a href=""><img src="" alt=""></a></li>
+                          <li class="footer-item-list-box"><a href=""><img src="" alt=""></a></li>
+                          <li class="footer-item-list-box"><a href=""><img src="" alt=""></a></li>
+                          <li class="footer-item-list-box"><a href=""><img src="" alt=""></a></li>
+                          <li class="footer-item-list-box"><a href=""><img src="" alt=""></a></li>
+                      </ul>
+                  </div>
+                  <div class="footer-item pull-left">
+                      <h2 class="footer-item-title">Realização</h2>
+                      <ul class="footer-item-list">
+                          <li class="footer-item-list-box"><img src="images/snno.png" alt=""></li>
+                      </ul>
+                  </div>
+                  <div class="footer-item pull-left">
+                      <h2 class="footer-item-title">Apoio</h2>
+                      <ul class="footer-item-list">
+                          <li class="footer-item-list-box"><img src="images/apoio.jpg" alt=""></li>
+                      </ul>
+                  </div>
+                  <div class="footer-item pull-left">
+                      <h2 class="footer-item-title">Agência de Viagens</h2>
+                      <ul class="footer-item-list">
+                          <li class="footer-item-list-box"><img src="images/luck.png" alt=""></li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+          <div class="social-content col-lg-2">
+              <div class="row">
+                  <a href=""><img src="images/logo-face.png" alt=""></a>
+                  <a href=""><img src="images/logo-youtube.png" alt=""></a>
+              </div>
+          </div>
+      </footer>
+    </body>
+<script src="js/scripts.js"></script>
+</html>
